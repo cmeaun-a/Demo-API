@@ -1,0 +1,8 @@
+{
+  "server": {
+    "secure": false,
+    "graphql": {
+      "graphiql": false
+    }
+  }
+}
