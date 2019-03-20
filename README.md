@@ -1,5 +1,4 @@
-# demo-api
-Demo of my intership
+# Demo of my intership
 
 ## Start
 
